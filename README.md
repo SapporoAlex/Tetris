@@ -30,9 +30,9 @@ This is a Tetris game implemented in Python using the Pygame library. The game i
 ## Usage
 
 To start the game, run the `tetris.py` file:
-```bash
-python teris.py
-```
+    ```bash
+    python tetris.py
+    ```
 
 ## Controls
 
