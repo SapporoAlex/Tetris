@@ -36,22 +36,22 @@ To start the game, run the `tetris.py` file:
 
 ## Controls
 
-Left Arrow: Move Tetromino left
-Right Arrow: Move Tetromino right
-Down Arrow: Move Tetromino down faster
-Up Arrow: Rotate Tetromino
+- Left Arrow: Move Tetromino left
+- Right Arrow: Move Tetromino right
+- Down Arrow: Move Tetromino down faster
+- Up Arrow: Rotate Tetromino
 
 ## File Structure
 
-tetris.py: The main game file containing all the game logic and functions.
-highscore.txt: A file to store the high score.
-preview.jpg: Image file for the game preview (should be placed in the same directory as tetris.py).
+- tetris.py: The main game file containing all the game logic and functions.
+- highscore.txt: A file to store the high score.
+- preview.jpg: Image file for the game preview (should be placed in the same directory as tetris.py).
 
 ## Future Improvements
 
-Add sound effects and background music.
-Implement different game modes (e.g., timed mode, endless mode).
-Enhance the UI with more sophisticated graphics.
+- Add sound effects and background music.
+- Implement different game modes (e.g., timed mode, endless mode).
+- Enhance the UI with more sophisticated graphics.
 
 ## Contributing
 
